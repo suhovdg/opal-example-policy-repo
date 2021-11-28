@@ -1,6 +1,6 @@
 # Role-based Access Control (RBAC)
 # --------------------------------
-#
+# 
 # This example defines an RBAC model for a Pet Store API. The Pet Store API allows
 # users to look at pets, adopt them, update their stats, and so on. The policy
 # controls which users can perform actions on which resources. The policy implements
@@ -19,6 +19,7 @@
 
 package app.rbac
 
+# test suhovdg
 # import data.utils
 
 # By default, deny requests
