@@ -1,6 +1,6 @@
 # Role-based Access Control (RBAC)
 # --------------------------------
-# change suhovdg  29.11.2021 change 01.12.2021 suhovdg path-1
+# change suhovdg  29.11.2021 change 01.12.2021 suhovdg patch-1 new
 # This example defines an RBAC model for a Pet Store API. The Pet Store API allows
 # users to look at pets, adopt them, update their stats, and so on. The policy
 # controls which users can perform actions on which resources. The policy implements
